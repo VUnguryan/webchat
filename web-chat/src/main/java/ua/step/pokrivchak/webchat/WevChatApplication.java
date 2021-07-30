@@ -1,4 +1,4 @@
-package ua.step.pokrivchak.wevchat;
+package ua.step.pokrivchak.webchat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

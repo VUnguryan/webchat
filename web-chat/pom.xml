@@ -12,7 +12,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ua.step.pokrivchak</groupId>
-	<artifactId>wev-chat</artifactId>
+	<artifactId>web-chat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>wev-chat</name>
 	<description>Demo project for Spring Boot</description>
